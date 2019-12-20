@@ -4,7 +4,7 @@ import math
 import matplotlib.pyplot as plt
 import japanize_matplotlib
 
-file_name = "doc.tex"
+file_name = "main.py"
 command = "git log --stat | grep {}".format(file_name)
 proc = subprocess.Popen(
     command,
