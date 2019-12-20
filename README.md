@@ -6,8 +6,8 @@ Gitで管理中の一つのファイルの変更増減をグラフにする｡
 
 # dependency
 - Python3
-- matplotlib
-- japanize_matplotlib
+- lib: matplotlib
+- lib: japanize_matplotlib
 
 # demo
 ```sh
